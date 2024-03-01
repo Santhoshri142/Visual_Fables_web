@@ -1,0 +1,30 @@
+.admin {
+     
+     background-color: rgb(166, 220, 206);  
+    
+    width: 100%;
+    height: 100vh;
+    padding-top: 2%;
+     
+    color: #fff;
+  }
+  .admin-img{
+    width: 100%;
+    
+  }
+  .img h1{
+      padding-left: 0%;
+
+  }
+  
+  .ChartNav{
+    background-color: rgb(166, 220, 206);  
+    padding-top: 3%;
+    color: #fff;
+    text-align: center;
+  }
+  .ChartNav h1{
+    padding-top: 3%;
+    padding-bottom: 3%;
+  }
+  

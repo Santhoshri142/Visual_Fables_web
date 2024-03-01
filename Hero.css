@@ -1,0 +1,31 @@
+
+
+.hero #heading h3 { 
+  color: #fff;
+  padding-top: 20%;
+  
+}
+.hero #heading h1 {
+  color: #fff;
+}
+.hero #heading {
+  text-align: left;
+  margin: 40px;
+  padding: 10px;
+  padding-bottom: 0%;
+}
+.log-btn{
+  padding-bottom: 17%;
+}
+ @media screen and (max-width: 768px) {
+ 
+  .hero {
+    background-position: right;
+    padding: 0%; 
+    height: 0vh;
+  }
+  .hero .row {
+    width: 100%;
+    
+  }
+} 
